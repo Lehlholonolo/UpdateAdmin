@@ -1,0 +1,3 @@
+This is a Node_Module which might load --install, during the general 'npm install'
+
+Please manually copy and paste the 'sweetalert' Node_Module, after installing packages.
